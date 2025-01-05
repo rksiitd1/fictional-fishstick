@@ -24,12 +24,12 @@ A clean, intuitive note-taking application built with Next.js and Tailwind CSS. 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/notes-app.git
+git clone https://github.com/rksiitd1/fictional-fishstick.git
 ```
 
 2. Install dependencies:
 ```bash
-cd notes-app
+cd fictional-fishstick
 npm install
 ```
 
