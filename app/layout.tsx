@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Noteflow | Your Digital Workspace",
+  title: "Notes",
   description: "Organize your work, personal notes, and ideas in one seamless space. A clean, intuitive note-taking app for your daily thoughts and tasks.",
 };
 
